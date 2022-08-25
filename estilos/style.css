@@ -1,4 +1,4 @@
-@charset 'UTF-8';
+@charset "UTF-8";
 
 * {
     margin: 0px;
@@ -29,7 +29,7 @@ section#telefone {
 
     height: 627px;
     width: 311px;
-    background-color: blue;
+    background-color: black;
     background: url('../imagens/frame-iphone.png') no-repeat;
 }
 
